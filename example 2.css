@@ -1,0 +1,104 @@
+body {
+	background-color: #000000;
+	font-size: 18px;
+}
+
+.main_Page {
+	background-color: white;
+	margin-top: 20px;
+}
+
+.nav-pills{
+	background-color: #404040;
+	margin-bottom: -19px;
+	border-radius: 0px;
+}
+
+.nav-pills > li > a{
+	border-radius: 0px;
+	color: #eeeeee;
+}
+
+.nav.nav-pills.nav-justified li > a:hover{
+	background-color: #4d4d4d;
+}
+
+.nav.nav-pills.nav-justified li > a:focus{
+	background-color: #595959;
+	outline: none;
+}
+
+.nav-pills > li.active > a {
+	background-color: #666666;
+}
+
+#website_Name {
+	background-color: #262626;
+	color: #eeeeee;
+	padding-bottom: 23px;
+	padding-top: 23px; 
+	margin-bottom: -1px;
+	margin-top: -1px;
+}
+
+.sidebar {
+	background-color: #d9d9d9;
+	margin-left: -30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.sidebar > #links, .sidebar > #extra {
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.sidebar > #links > h3 {
+	border-bottom: 1px dotted #4c4c4c;
+	padding-bottom: 20px;
+}
+
+.sidebar > #extra > h3{
+	border-bottom: 1px dotted #4c4c4c;
+	padding-bottom: 20px;
+
+}
+
+.sidebar > #links > ul > li {
+	list-style: none;
+	padding-left: 10px; 
+}
+
+.sidebar > #links > ul > li > a {
+	color: ;
+	text-decoration: none;
+	outline: none;
+}
+
+.main_Page#entry_1, .main_Page#entry_2,.main_Page#entry_3 {
+	border-bottom: 1px dotted #4c4c4c;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.main_Page a{
+	text-decoration: none;
+	outline: none;
+}
+
+footer {
+	background-color: 262626;
+	text-align: center;
+	padding-top: 10px;
+	color: #eeeeee;
+}
+
+footer a, footer a:hover, footer a:focus, footer a:active {
+	color : #00ff00;
+	text-decoration: none;
+	outline: none;
+}
+
